@@ -4,7 +4,9 @@ solution implement(之后会上传代码).<br>
 #### CIKM 2019 EComm AI - Efficient and Novel Item Retrieval for Large-scale Online Shopping Recommendation
 
 #### 队伍名称
-kupuV
+kupuV<br>
+- 初赛 43/1003
+- 复赛 10/1003
 
 #### 赛题地址（competition address）:
 * [in CIKM] (http://www.cikm2019.net/challenge.html).<br>
