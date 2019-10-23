@@ -1,5 +1,5 @@
 # CIKM-CUP-2019-TRACK2-rank10
-solution implement.<br>
+solution implement(之后会上传代码).<br>
 
 #### CIKM 2019 EComm AI - Efficient and Novel Item Retrieval for Large-scale Online Shopping Recommendation
 
