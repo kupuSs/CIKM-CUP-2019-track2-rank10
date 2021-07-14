@@ -4,7 +4,7 @@ solution implement(之后会上传代码).<br>
 #### CIKM 2019 EComm AI - Efficient and Novel Item Retrieval for Large-scale Online Shopping Recommendation
 
 #### 队伍名称
-kupuV<br>
+kupu<br>
 - 初赛 43/1003
 - 复赛 10/1003
 主要是内存很小，数据要采样，如果数据量可以再大一点，结果应该可以更好:(<br>
